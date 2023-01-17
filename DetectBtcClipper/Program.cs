@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace BtcClipperDetector
+namespace DetectBtcClipper
 {
     internal class Program
     {
@@ -39,7 +39,7 @@ namespace BtcClipperDetector
             else
             {
                 Console.WriteLine("Not Detected");
-            }                    
+            }
         }
 
     }

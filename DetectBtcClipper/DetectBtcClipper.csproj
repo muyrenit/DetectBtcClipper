@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{81F85250-4281-4D61-8844-C9559670ACFB}</ProjectGuid>
+    <ProjectGuid>{4B08E9BE-5287-46C0-8C0D-4ABAC7ABF12B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BtcClipperDetector</RootNamespace>
-    <AssemblyName>BtcClipperDetector</AssemblyName>
+    <RootNamespace>DetectBtcClipper</RootNamespace>
+    <AssemblyName>DetectBtcClipper</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClipperDetector", "BtcClipperDetector\BtcClipperDetector.csproj", "{81F85250-4281-4D61-8844-C9559670ACFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectBtcClipper", "DetectBtcClipper\DetectBtcClipper.csproj", "{4B08E9BE-5287-46C0-8C0D-4ABAC7ABF12B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81F85250-4281-4D61-8844-C9559670ACFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81F85250-4281-4D61-8844-C9559670ACFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81F85250-4281-4D61-8844-C9559670ACFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81F85250-4281-4D61-8844-C9559670ACFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B08E9BE-5287-46C0-8C0D-4ABAC7ABF12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B08E9BE-5287-46C0-8C0D-4ABAC7ABF12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B08E9BE-5287-46C0-8C0D-4ABAC7ABF12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B08E9BE-5287-46C0-8C0D-4ABAC7ABF12B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5AB9B249-D74E-497E-A03A-82C9AF7CA251}
+		SolutionGuid = {82B2A2D7-AEDB-4A66-A5CD-5CAB238BDA53}
 	EndGlobalSection
 EndGlobal

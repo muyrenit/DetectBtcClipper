@@ -1,8 +1,0 @@
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\bin\Release\BtcClipperDetector.exe.config
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\bin\Release\BtcClipperDetector.exe
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\bin\Release\BtcClipperDetector.pdb
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\obj\Release\BtcClipperDetector.csproj.AssemblyReference.cache
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\obj\Release\BtcClipperDetector.csproj.SuggestedBindingRedirects.cache
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\obj\Release\BtcClipperDetector.csproj.CoreCompileInputs.cache
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\obj\Release\BtcClipperDetector.exe
-C:\Users\HB\source\repos\BtcClipperDetector\BtcClipperDetector\obj\Release\BtcClipperDetector.pdb

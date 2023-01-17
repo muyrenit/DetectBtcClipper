@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BtcClipperDetector")]
+[assembly: AssemblyTitle("DetectBtcClipper")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BtcClipperDetector")]
+[assembly: AssemblyProduct("DetectBtcClipper")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("81f85250-4281-4d61-8844-c9559670acfb")]
+[assembly: Guid("4b08e9be-5287-46c0-8c0d-4abac7abf12b")]
 
 // Version information for an assembly consists of the following four values:
 //
